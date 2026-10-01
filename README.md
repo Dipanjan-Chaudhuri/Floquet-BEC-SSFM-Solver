@@ -42,6 +42,8 @@ During real-time propagation, the solver continuously evaluates and records peri
 *   Kinetic Energy Expectation: $\langle T \rangle$ (calculated natively in momentum space via Parseval's theorem)
 *   Interaction Energy: $E_0(t)$
 
+![Period-Averaged Observables](Observables.png)
+
 ## Current Capabilities (Ongoing)
 - [x] Full 3D Cartesian grid generation and $K$-space mapping.
 - [x] Imaginary-time evolution for initial ground state preparation.
